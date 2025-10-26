@@ -115,7 +115,7 @@ Frontend Developer
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#evgenii-zaitsev">
-        <img src="https://cdn.simpleicons.org/playwright" width="36" height="36" alt="Playwright" />
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" />
       </a>
       <br>playwright
     </td>
@@ -181,26 +181,6 @@ Frontend Developer
       </a>
       <br>Apollo
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#evgenii-zaitsev">
-        <img src="https://brandeps.com/logo-download/V/Vue-JS-logo-vector-01.svg" width="36" height="36" alt="Vue 3" />
-      </a>
-      <br>Vue 3
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#evgenii-zaitsev">
-        <img src="https://cdn.simpleicons.org/nuxtdotjs" width="36" height="36" alt="Nuxt 3" />
-      </a>
-      <br>Nuxt 3
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#evgenii-zaitsev">
-        <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" />
-      </a>
-      <br>Pinia
-    </td>
-  </tr> 
-  <tr>
     <td align="center" width="110" height="90"> 
       <a href="#evgenii-zaitsev">
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
